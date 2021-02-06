@@ -1,0 +1,54 @@
+body {
+	font-family: Tahoma;
+	color: #FFF;
+	font-size: 15px;
+	width: 1300px;
+	height: auto;
+	margin: 0px auto;}
+
+#menu {
+	height: 80px;
+	width: 1200px;
+}
+
+#menu ul {
+	margin: 0px;
+	padding: 0px ;
+}
+#menu ul li {
+	list-style: none;
+	float: left; 
+}
+#menu ul li a{
+	text-decoration: none;
+	display: block;
+	height: 40px;
+	line-height: 40px;
+	color: #FFF;
+	padding: 10px 30px 10px 30px;
+}
+#menu ul li a:hover {
+	color: orange;
+	font-size: 18px;
+}
+
+#menu ul li a.active{
+	background: #1949b5;
+
+	font-size: 18px;
+}
+#main  img.cangiua {display: block; margin-left: auto; margin-right: auto;}
+
+#main video.cangiua {display: block; margin-left: auto; margin-right: auto;}
+
+#main  {
+	height: auto;
+	width: 1300px;
+	float: left
+}
+i ,u {color:  #CC851A;}
+#main #left {
+	width: 600px;
+	float: left;
+}
+
