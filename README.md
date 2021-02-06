@@ -1,2 +1,0 @@
-# EveryThingsAboutDeepLearning
-Deep Learning
